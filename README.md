@@ -41,3 +41,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-yun&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=jihee-yun&show_icons=true">
 </div>
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?
+	type=wave&color=086A87&height=200&section=footer&text=Thank%20You!&fontSize=60"/>
+</div>

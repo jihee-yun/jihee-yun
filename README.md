@@ -38,8 +38,8 @@
 </div>
 
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-yun&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=jihee-yun&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=윤지희&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=윤지희&show_icons=true">
 </div>
 
 <div align=center>

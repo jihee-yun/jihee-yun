@@ -43,5 +43,4 @@
 </div>
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&rotate=-180&color=086A87&fontAlign=50&fontAlignY=30&text=감사합니다&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" />
 </div>

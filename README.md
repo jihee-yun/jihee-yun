@@ -39,5 +39,5 @@
 
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihee-yun&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=jihuu-yun&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=jihee-yun&show_icons=true">
 </div>

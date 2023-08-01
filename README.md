@@ -43,6 +43,5 @@
 </div>
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?
-	type=wave&color=086A87&height=200&section=footer&text=Thank%20You!&fontSize=60"/>
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=086A87&fontAlign=50&fontAlignY=30&text=감사합니다&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff" />
 </div>

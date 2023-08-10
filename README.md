@@ -39,7 +39,7 @@
 <br>
 <div align=center>
 	<p>✨ Contact & Portfolio ✨</p>
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dandelion1141@gmail.com)
+	<a href="mailto:dandelion1141@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </div>
 
 <div align=center>

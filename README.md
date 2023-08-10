@@ -12,7 +12,6 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
@@ -40,6 +39,8 @@
 <br>
 <div align=center>
 	<p>✨ Contact & Portfolio ✨</p>
+	<a href="mailto:dandelion1141@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-	 
+         square&logo=Gmail&logoColor=white&link=dandelion1141@gmail.com"/></a>
 </div>
 
 <div align=center>

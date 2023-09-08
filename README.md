@@ -38,7 +38,7 @@
 </div>
 <br>
 <div align=center>
-	<p>✨ Contact & Portfolio ✨</p>
+	<p>✨ Contact ✨</p>
 	<a href="mailto:dandelion1141@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </div>
 <br>

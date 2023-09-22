@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=086A87&fontAlign=50&fontAlignY=30&text=Jihee%20Yun&descAlign=70&descAlignY=55&height=200&fontSize=80&fontColor=ffffff" />	
 </div>
 <div align=center>
-	<p style="font-size: 24px; font-weight: bold;">📌 Tech Stack 📌</p>
+	<h3>📌 Tech Stack 📌</h3>
 	<p>🤍 Languages & DB 🤍</p>
 </div>
 <div align="center">
